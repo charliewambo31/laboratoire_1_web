@@ -1,0 +1,94 @@
+nav ul li {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:red
+
+}
+ nav {
+    text-align: center;
+
+ }
+ td{
+    border: end end radius 5px;;
+    text-align: center;
+    height:100px;
+    padding: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+
+ }
+ tr{
+    border-end-end-radius:20%;
+    text-align: center;
+    height:100px;
+    padding: 5px;
+
+ }
+ img{
+
+    justify-content:right;
+    position: relative;
+    align-items:right ;
+    display:inline;
+    text-align: right;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    position:sticky;
+    float:right;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+
+h2 h3{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+ .image_5Labo1.jpg{
+    justify-content:center;
+    align-items:center ;
+    display: flex;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    position:relative;
+    float:initial;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ .image_cle.jfif{
+    justify-content:center;
+    align-items:center ;
+    display: flex;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    position:relative;
+    float:initial;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+ p{
+  font: size 1.4em;
+  opacity: 0.7;
+  font-weight: 600;
+  margin-top: 10%;
+  margin-left: 20px;
+ }
+
+#form {
+    padding: 125px;
+}
+
+
