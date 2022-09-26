@@ -12,50 +12,39 @@ nav ul li {
  td{
     border: end end radius 5px;;
     text-align: center;
-    height:200px;
-    padding: 30px;
+    height:10px;
+    padding: 0x;
     margin-left:20px;
     margin-right: 20px;
 
  }
  tr{
-    border-end-end-radius:20%;
-    text-align: center;
-    height:200px;
-    padding: 20px;
+   border-end-end-radius:20%;
+    height:10px;
+    padding: 10px;
     margin-left:20px;
     margin-right: 20px;
 
  }
  img{
-
-    justify-content:right;
-    position: relative;
-    align-items:right ;
-    display:inline;
-    text-align: right;
     width: 500px;
     height: 500px;
-    background-color: black;
-    position:sticky;
-    float:right;
-    margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 20px;
     margin-right: 20px;
  }
 
 
-h2 h3{
+h3{
     display: flex;
     margin-left: 50px;
     margin-right: 50px;
- }
+   }
 
  p{
   font: size 3.4em;
   opacity: 0.9;
-  font-weight: 1000;
+  font-weight: 600;
   margin-top: 5px;
   margin-left: 20px;
  }
@@ -65,9 +54,8 @@ h2 h3{
 }
 table{
    margin-left: 50px;
-   margin-right: 20px; 
+   margin-right: 50px; 
 }
-
 
 
 
