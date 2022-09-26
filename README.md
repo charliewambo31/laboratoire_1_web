@@ -7,3 +7,4 @@ Ce projet encore en cours presente:
 Ce site a pour but de diffuser les produits de l artisanat africain encore inconnu
 sur le marche mondial.
 Vous pourriez ajouter pour l amelioration de la conception du site.
+Charlie Wambo
